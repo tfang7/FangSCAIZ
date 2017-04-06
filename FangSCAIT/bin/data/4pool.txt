@@ -1,0 +1,4 @@
+4 pool
+3 zergling
+3 zergling
+3 zergling

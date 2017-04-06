@@ -1,0 +1,9 @@
+9 overlord
+12 hatchery
+11 pool
+13 extractor
+12 zergling
+12 zergling
+12 zergling
+15 zergling
+15 overlord
